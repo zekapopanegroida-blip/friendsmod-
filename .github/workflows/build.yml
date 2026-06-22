@@ -20,6 +20,8 @@ jobs:
 
       - name: Setup Gradle
         uses: gradle/gradle-build-action@v3
+        with:
+          gradle-version: 7.6.4
 
       - name: Build mod jar
         run: gradle build --no-daemon
