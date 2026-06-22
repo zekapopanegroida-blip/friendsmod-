@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "weight": 1, "name": "friendsmod:trick_scooter" },
+        { "type": "minecraft:item", "weight": 1, "name": "friendsmod:brawl_phone" },
+        { "type": "minecraft:item", "weight": 1, "name": "friendsmod:seva_record" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/yourname/friendsmod"
+
+[[mods]]
+modId="friendsmod"
+version="1.0.0"
+displayName="Friends Mod"
+authors="you"
+description='''Мод с мобами на основе друзей: Лёша и Сева.'''
+
+[[dependencies.friendsmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.friendsmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
