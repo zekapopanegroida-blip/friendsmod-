@@ -1,0 +1,14 @@
+{
+  "lesha_ambient": {
+    "subtitle": "subtitles.entity.friendsmod.lesha.ambient",
+    "sounds": [ { "name": "friendsmod:lesha/ambient", "stream": true } ]
+  },
+  "lesha_hurt": {
+    "subtitle": "subtitles.entity.friendsmod.lesha.hurt",
+    "sounds": [ { "name": "friendsmod:lesha/hurt", "stream": true } ]
+  },
+  "seva_record": {
+    "subtitle": "subtitles.entity.friendsmod.seva.record",
+    "sounds": [ { "name": "friendsmod:lesha/ambient", "stream": true } ]
+  }
+}
